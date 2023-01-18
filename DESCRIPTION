@@ -1,0 +1,21 @@
+Package: tadaaspotify
+Title: Convenient & Tidy Access To Spotify Data
+Version: 0.3
+Authors@R: 
+    person(given = "Tobias",
+           family = "Anton",
+           role = c("aut", "cre"),
+           email = "tobias.anton.85@gmail.com")
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    httr,
+    purrr,
+    tibble,
+    cliapp,
+    progress
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
