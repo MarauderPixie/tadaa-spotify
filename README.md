@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-devtools::install_git("https://git.tadaa-data.de/MarauderPixie/tadaaspotify")
+remotes::install_github("MarauderPixie/tadaa-spotify")
 ```
 
 ## Current Problems
